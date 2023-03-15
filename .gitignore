@@ -1,0 +1,4 @@
+masakari-front/.yarn/cache/*
+masakari-front/.yarn/unplugged/*
+*.zip
+*.gz
